@@ -63,6 +63,8 @@ graph TB
     NG --> ADDONS
 ```
 
+![Architecture EKS 5ASRCB](preuves/screenshots/architecture.png)
+
 ---
 
 ## 📁 Structure du projet
