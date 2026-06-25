@@ -271,7 +271,9 @@ terraform destroy -auto-approve
 ## 👨‍💻 Auteur
 
 Projet réalisé par **Fréderic Junior EPESSE PRISO** dans le cadre du cursus **M2 — Spécialisation Systèmes, Réseaux & Cloud Computing** (2025-2026).
+
 Encadrant : Kevin Chevreuil
+
 GitHub : [github.com/Whitedukecmr](https://github.com/Whitedukecmr)
 
 ---
