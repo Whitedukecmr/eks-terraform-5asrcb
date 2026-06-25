@@ -9,11 +9,11 @@ terraform {
   }
 
   # BONUS: Décommenter ce bloc après avoir créé le bucket S3 manuellement
-  # backend "s3" {
-  #   bucket = "votre-bucket-tfstate"
-  #   key    = "eks-5asrcb/terraform.tfstate"
-  #   region = "us-east-1"
-  # }
+  backend "s3" {
+    bucket = "tfstate-eks-5asrcb-214654654048"
+    key    = "eks-5asrcb/terraform.tfstate"
+    region = "us-east-1"
+  }
 }
 
 provider "aws" {

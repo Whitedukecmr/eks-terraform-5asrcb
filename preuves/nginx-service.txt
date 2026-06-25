@@ -1,0 +1,2 @@
+NAME    TYPE       CLUSTER-IP       EXTERNAL-IP   PORT(S)        AGE
+nginx   NodePort   172.20.227.181   <none>        80:31236/TCP   52m
