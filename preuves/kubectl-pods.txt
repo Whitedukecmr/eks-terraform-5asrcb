@@ -1,0 +1,7 @@
+NAME                      READY   STATUS    RESTARTS   AGE
+aws-node-l2jsp            2/2     Running   0          7m12s
+aws-node-wksp2            2/2     Running   0          7m4s
+coredns-79767d7cc-dbph4   1/1     Running   0          11m
+coredns-79767d7cc-rf9pn   1/1     Running   0          11m
+kube-proxy-4kwp8          1/1     Running   0          7m58s
+kube-proxy-rnlcd          1/1     Running   0          8m

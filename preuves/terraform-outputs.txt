@@ -1,0 +1,18 @@
+alb_dns_name = "5asrcb-alb-755324304.us-east-1.elb.amazonaws.com"
+ec2_public_ip = "44.213.107.84"
+eks_cluster_certificate_authority = <sensitive>
+eks_cluster_endpoint = "https://22950F959C16DBE9E98F42C65FD47F0C.gr7.us-east-1.eks.amazonaws.com"
+eks_cluster_name = "eks-5asrcb"
+eks_cluster_version = "1.31"
+kubeconfig_command = "aws eks update-kubeconfig --region us-east-1 --name eks-5asrcb"
+private_subnet_ids = [
+  "subnet-0e3efb8d23ecf0e08",
+  "subnet-0910c49e2277ad1d9",
+  "subnet-0707fc79ae7ce9963",
+]
+public_subnet_ids = [
+  "subnet-03d5c90367220dae3",
+  "subnet-02932c4391abc4b6a",
+  "subnet-042210c6bdd829c41",
+]
+vpc_id = "vpc-0b97c641275d5818f"
